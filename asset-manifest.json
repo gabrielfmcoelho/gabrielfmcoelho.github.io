@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a9fcae75.css",
-    "main.js": "/static/js/main.f2c29a68.js",
-    "static/media/SindromeGripal.png": "/static/media/SindromeGripal.096b0cb7472d297c0162.png",
-    "static/media/PainelEpidemiologico.png": "/static/media/PainelEpidemiologico.8d97f5f3c572d72daf11.png",
-    "static/media/Eu6.png": "/static/media/Eu6.9efa59e805dd36ece9c6.png",
-    "static/media/Monkeypox.png": "/static/media/Monkeypox.67802bf1ad938b86e69a.png",
+    "main.js": "/static/js/main.7cb38734.js",
+    "static/media/eu7.png": "/static/media/eu7.862688f7720e63de47cb.png",
     "static/media/LeitosCOVID19.png": "/static/media/LeitosCOVID19.6becced39488dd115be1.png",
+    "static/media/Website.png": "/static/media/Website.4c95efee3d26e6ae01d4.png",
+    "static/media/Monkeypox.png": "/static/media/Monkeypox.d24defede8de427c47f8.png",
     "static/media/python.png": "/static/media/python.f502323c366bceda9a15.png",
+    "static/media/PredicaoDoencaCardiaca.png": "/static/media/PredicaoDoencaCardiaca.47a0c34a8ecb41a1df89.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/matlab.png": "/static/media/matlab.7ed9da7b25dd3989d08f.png",
     "static/media/scikitlearn.png": "/static/media/scikitlearn.a18297fa5cf2813ceee0.png",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.a9fcae75.css.map": "/static/css/main.a9fcae75.css.map",
-    "main.f2c29a68.js.map": "/static/js/main.f2c29a68.js.map"
+    "main.7cb38734.js.map": "/static/js/main.7cb38734.js.map"
   },
   "entrypoints": [
     "static/css/main.a9fcae75.css",
-    "static/js/main.f2c29a68.js"
+    "static/js/main.7cb38734.js"
   ]
 }
