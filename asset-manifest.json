@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a9fcae75.css",
-    "main.js": "/static/js/main.55dd2352.js",
+    "main.js": "/static/js/main.a9c9dfcf.js",
     "static/media/eu7.png": "/static/media/eu7.862688f7720e63de47cb.png",
     "static/media/LeitosCOVID19.png": "/static/media/LeitosCOVID19.6becced39488dd115be1.png",
     "static/media/Website.png": "/static/media/Website.4c95efee3d26e6ae01d4.png",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.a9fcae75.css.map": "/static/css/main.a9fcae75.css.map",
-    "main.55dd2352.js.map": "/static/js/main.55dd2352.js.map"
+    "main.a9c9dfcf.js.map": "/static/js/main.a9c9dfcf.js.map"
   },
   "entrypoints": [
     "static/css/main.a9fcae75.css",
-    "static/js/main.55dd2352.js"
+    "static/js/main.a9c9dfcf.js"
   ]
 }
