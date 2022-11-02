@@ -13,15 +13,24 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20">
-                Sou um jovem de 22 anos, apaixonado por tecnologia e por resolver problemas.
+                Iniciei minha formação na graduação de engenharia elétrica - UFPI (2019) a qual sou extremamente grato por ter ajudado a formar muito do meu caráter e oportunidades. Entretanto, atualmente realizei a transição para a graduação em Engenharia de Software, que me aproxima mais das áreas as quais sou apaixonado.
             </p>
 
             <br/>
 
             <p className="text-xl">
-                Atualmente estou cursando Engenharia Eletrica na Universidade Federal do Piaui (UFPI), e estou no 7º período.
+                No âmbito acadêmico, aproveitei o máximo de oportunidades para contribuir dentro e fora do curso, passando por diversas áreas como: presidente do CAEEL, vice-presidente da RiseUp Jr, entre outros grupos.
+                No âmbito profissional, logo após o fim do ensino médio obtive minhas primeiras experiências profissionais como garçom, professor particular e consultor de matrículas. Apartir do 2° de curso iniciei meu primeiro estágio de projetos em energia solar, atualmente trabalho com análise e visualização de dados da saúde em uma startup.
             </p>
             
+            <p className="text-xl">
+                Além disso, participo de iniciação científica pela FAPEPI na pesquisa de atualização e implementação de hardware e software de um respirador pulmonar para múltiplos pacientes infectados por COVID-19.
+            </p>
+
+            <p className="text-xl">
+                Sou apaixonado por tecnologia e construção de soluções. Especializado na análise e ciência de dados. Sou dedicado, inconformado e buscando constante desenvolvimento. Sempre visto a camisa dos projetos que aos quais me proponho e acredito, me esforçando ao máximo para inovar e melhorar processos nos mesmos.            
+            </p>
+
             <br/>
             <br/>
             <br/>

@@ -1,7 +1,7 @@
 import React from 'react'
 import Monkeypox from '../assets/portifolio/Monkeypox.png'
-import SindromeGripal from '../assets/portifolio/SindromeGripal.png'
-import PainelEpidemiologico from '../assets/portifolio/PainelEpidemiologico.png'
+import PredicaoDoencaCardiaca from '../assets/portifolio/PredicaoDoencaCardiaca.png'
+import Website from '../assets/portifolio/Website.png'
 import LeitosCOVID19 from '../assets/portifolio/LeitosCOVID19.png'
 
 const Portifolio = () => {
@@ -10,30 +10,23 @@ const Portifolio = () => {
         {
             id: 1, 
             src: Monkeypox, 
-            title: '<Painel> Mapa de Monkeypox', 
-            description: 'Array Destructuring é uma forma de desestruturar um array em variáveis, de forma que cada elemento do array seja atribuído a uma variável. É uma forma de extrair dados de um array e atribuí-los a variáveis.', 
-            link: ''
+            title: '<Painel> Monkeypox SESAPI', 
+            description: 'Painel demonstrativo construido em Tableau para exploração de diferentes tipos de gráficos e parâmetros para visualização de casos *hipotéticos* de Monkeypox (também conhecida como varíola do macaco) no Piauí. Este painel foi preparado para a Secretaria de Estado da Saúde do Piauí (SESAPI)', 
+            link: 'https://public.tableau.com/app/profile/gabriel.feitosa.melo.coelho/viz/SituaoEpidemiologicadeMonkeypoxPiau/Dashboard'
         },
         {
             id: 2, 
-            src: SindromeGripal, 
-            title: '<Painel> Sindrome Gripal', 
-            description: 'Array Destructuring é uma forma de desestruturar um array em variáveis, de forma que cada elemento do array seja atribuído a uma variável. É uma forma de extrair dados de um array e atribuí-los a variáveis.', 
-            link: ''
+            src: PredicaoDoencaCardiaca, 
+            title: '<WebApp+ML> Predição de Doença Cardiaca', 
+            description: 'Web App criado em flask para realizar a aquisição de dados de pacientes e realizar a predição de doença cardíaca. O modelo de Machine Learning utilizado foi o Random Forest Classifier em conjunto com uma scikit learn pipeline, com uma acurácia de 85%. O modelo foi treinado com dados do Kaggle', 
+            link: 'http://gabrielfmcoelho.pythonanywhere.com/'
         },
         {
-            id: 3, 
-            src: PainelEpidemiologico, 
-            title: '<Painel> Epidemiologico', 
-            description: 'Array Destructuring é uma forma de desestruturar um array em variáveis, de forma que cada elemento do array seja atribuído a uma variável. É uma forma de extrair dados de um array e atribuí-los a variáveis.', 
-            link: ''
-        },
-        {
-            id: 4, 
-            src: LeitosCOVID19, 
-            title: '<Painel> Leitos de COVID19', 
-            description: 'Array Destructuring é uma forma de desestruturar um array em variáveis, de forma que cada elemento do array seja atribuído a uma variável. É uma forma de extrair dados de um array e atribuí-los a variáveis.', 
-            link: ''
+            id: 3,
+            src: Website,
+            title: '<Website> Portifólio Pessoal',
+            description: 'Este website foi criado com o intuito de demonstrar meus conhecimentos em React e Tailwind. O website foi criado com intuito de servir como hub de portifólios e projetos pessoais',
+            link: 'https://gabrielfmcoelho.github.io/'
         },
     ];
 

@@ -2,6 +2,7 @@ import React from 'react'
 import {FaGithub, FaLinkedin} from 'react-icons/fa'
 import {IoLogoTableau} from 'react-icons/io5'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
+import {BsMedium} from 'react-icons/bs'
 
 const SocialLinks = () => {
 
@@ -17,7 +18,7 @@ const SocialLinks = () => {
             child: (
                 <>GitHub <FaGithub size={30} /></>
                 ),
-            href: 'https://github.com/SrGCoelho',
+            href: 'https://github.com/gabrielfmcoelho',
             style: 'rounded-tr-md',
         },
         {id: 3,
@@ -28,6 +29,13 @@ const SocialLinks = () => {
             style: 'rounded-tr-md',
         },
         {id: 4,
+            child: (
+                <>Medium <BsMedium size={30} /></>
+            ),
+            href: 'https://medium.com/@gabriel_coelho',
+            style: 'rounded-tr-md',
+        },
+        {id: 5,
             child: (
                 <>Curriculo <BsFillPersonLinesFill size={30} /></>
                 ),

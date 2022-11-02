@@ -1,5 +1,5 @@
 import React from 'react'
-import Heroimage from '../assets/images/Eu6.png'
+import Heroimage from '../assets/images/eu7.png'
 import {IoIosArrowForward} from 'react-icons/io'
 import {Link} from 'react-scroll'
 
@@ -26,7 +26,7 @@ const Home = () => {
                 </h2>
                 
                 <p className='text-gray-500 py-4 max-w-md'>
-                    Sou apaixonado por tecnologia & por resolver problemas.
+                    Sou apaixonado por tecnologia e construção de soluções. Especializado na análise e ciência de dados. Sou dedicado, inconformado e buscando constante desenvolvimento. Sempre visto a camisa dos projetos que aos quais me proponho e acredito, me esforçando ao máximo para inovar e melhorar processos nos mesmos.
                 </p>
                 
                 <div>
