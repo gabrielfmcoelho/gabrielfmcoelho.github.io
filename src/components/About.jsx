@@ -20,8 +20,6 @@ const About = () => {
 
             <p className="text-xl">
                 No âmbito acadêmico, aproveitei o máximo de oportunidades para contribuir dentro e fora do curso, passando por diversas áreas como: presidente do CAEEL, vice-presidente da RiseUp Jr, entre outros grupos.
-            </p>
-            <p className='text-xl'>
                 No âmbito profissional, logo após o fim do ensino médio obtive minhas primeiras experiências profissionais como garçom, professor particular e consultor de matrículas. Apartir do 2° de curso iniciei meu primeiro estágio de projetos em energia solar, atualmente trabalho com análise e visualização de dados da saúde em uma startup.
             </p>
 

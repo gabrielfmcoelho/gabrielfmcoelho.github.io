@@ -12,21 +12,21 @@ const Portifolio = () => {
             src: Monkeypox, 
             title: '<Painel> Monkeypox SESAPI', 
             description: 'Painel demonstrativo construido em Tableau para exploração de diferentes tipos de gráficos e parâmetros para visualização de casos *hipotéticos* de Monkeypox (também conhecida como varíola do macaco) no Piauí. Este painel foi preparado para a Secretaria de Estado da Saúde do Piauí (SESAPI)', 
-            link: 'https://public.tableau.com/app/profile/gabriel.feitosa.melo.coelho/viz/SituaoEpidemiologicadeMonkeypoxPiau/Dashboard'
+            href: 'https://public.tableau.com/app/profile/gabriel.feitosa.melo.coelho/viz/SituaoEpidemiologicadeMonkeypoxPiau/Dashboard'
         },
         {
             id: 2, 
             src: PredicaoDoencaCardiaca, 
             title: '<WebApp+ML> Predição de Doença Cardiaca', 
             description: 'Web App criado em flask para realizar a aquisição de dados de pacientes e realizar a predição de doença cardíaca. O modelo de Machine Learning utilizado foi o Random Forest Classifier em conjunto com uma scikit learn pipeline, com uma acurácia de 85%. O modelo foi treinado com dados do Kaggle', 
-            link: 'http://gabrielfmcoelho.pythonanywhere.com/'
+            href: 'http://gabrielfmcoelho.pythonanywhere.com/'
         },
         {
             id: 3,
             src: Website,
             title: '<Website> Portifólio Pessoal',
             description: 'Este website foi criado com o intuito de demonstrar meus conhecimentos em React e Tailwind. O website foi criado com intuito de servir como hub de portifólios e projetos pessoais',
-            link: 'https://gabrielfmcoelho.github.io/'
+            href: 'https://gabrielfmcoelho.github.io/'
         },
     ];
 
@@ -63,7 +63,7 @@ const Portifolio = () => {
                                 GitHub
                 </button>*/}
                             <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                                <a href={portifolio.link} target="_blank" rel="noreferrer">Ver Detalhes</a>
+                                <a href={portifolio.href} target="_blank" rel="noreferrer">Ver Detalhes</a>
                             </button>
                         </div>
 
